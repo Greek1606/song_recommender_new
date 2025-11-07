@@ -121,5 +121,5 @@ if st.button("🎵 Recommend Similar Songs"):
         st.pyplot(fig)
 
 st.markdown("<hr>", unsafe_allow_html=True)
-st.markdown("<p style='text-align:center;color:gray;'>Built by <b>Greek Kumar</b> | Uses ML to find song similarity 🎧</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align:center;color:gray;'>Built by <b>Greek Kumar and Gopesh Sehgal</b> | Uses ML to find song similarity 🎧</p>", unsafe_allow_html=True)
 
